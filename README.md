@@ -5,10 +5,16 @@ It takes in the gender, height and weight of a person and displays the calculate
 
 
 
-https://user-images.githubusercontent.com/77429521/131994912-51706231-3db1-420b-b06e-e79e2a6481ad.mp4
+
+
+https://user-images.githubusercontent.com/77429521/131995100-3da27331-4181-4a2d-a869-74266eb4f715.mp4
 
 
 
-https://user-images.githubusercontent.com/77429521/131994920-7a625faf-b25d-44b2-a750-04bb6128a310.mp4
+https://user-images.githubusercontent.com/77429521/131995117-d8a0aca1-37a3-4584-b832-f2991b585814.mp4
+
+
+
+
 
 
